@@ -16,4 +16,4 @@ This command sets the execution policy for the current session only, and the cha
 
 Remember, adjusting the execution policy can expose your system to risks. If you set the execution policy to `Unrestricted`, be sure to only run scripts that you trust.
 
-Process_CPU_Threshold50.ps1 --> [[I'm an inline-style link](https://www.stefansommarsjo.com/posts/script-to-monitor-cpu-usage/)https://www.stefansommarsjo.com/posts/script-to-monitor-cpu-usage/]([https://www.google.com](https://www.stefansommarsjo.com/posts/script-to-monitor-cpu-usage/)https://www.stefansommarsjo.com/posts/script-to-monitor-cpu-usage/)
+Process_CPU_Threshold50.ps1 --> [https://www.stefansommarsjo.com/posts/script-to-monitor-cpu-usage/](https://www.stefansommarsjo.com/posts/script-to-monitor-cpu-usage/).
