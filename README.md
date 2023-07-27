@@ -15,3 +15,5 @@ Keep in mind that these steps change the execution policy for all PowerShell ses
 This command sets the execution policy for the current session only, and the change is discarded when the session is closed. You would then need to set the execution policy each time you open a new session to run the script.
 
 Remember, adjusting the execution policy can expose your system to risks. If you set the execution policy to `Unrestricted`, be sure to only run scripts that you trust.
+
+Process_CPU_Threshold50.ps1 --> [[I'm an inline-style link](https://www.stefansommarsjo.com/posts/script-to-monitor-cpu-usage/)https://www.stefansommarsjo.com/posts/script-to-monitor-cpu-usage/]([https://www.google.com](https://www.stefansommarsjo.com/posts/script-to-monitor-cpu-usage/)https://www.stefansommarsjo.com/posts/script-to-monitor-cpu-usage/)
